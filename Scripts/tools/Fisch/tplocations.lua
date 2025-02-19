@@ -17,7 +17,7 @@ return {
     ["Frigid Cavern"] = "leverpuzzle",
     ["Sunstone Island"] = "merlin",
     ["Moosewood"] = "moosewood",
-    ["Mushgroove swamp"] = "mushgroove", -- fixed
+    ["Mushgroove swamp"] = "mushgrove", -- fixed
     ["Oilrig"] = "oilrig",
     ["Poseidon Puzzle"] = "poseidonpuzzle",
     ["Roslit"] = "roslit",
