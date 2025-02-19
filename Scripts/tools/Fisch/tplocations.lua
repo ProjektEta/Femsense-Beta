@@ -1,8 +1,8 @@
 return {
-    ["Alter"] = "alter",
+    ["Alter"] = "enchant", -- f
     ["Ancient Isle"] = "ancient",
     ["The Arch"] = "arch",
-    ["Alantis"] = "alantis",
+    ["Atlantis"] = "atlantis", -- fixed
     ["Brine"] = "brine",
     ["Bunker"] = "bunker1",
     ["Camp 1"] = "camp1",
@@ -11,20 +11,20 @@ return {
     ["Desolate Pocket"] = "deep",
     ["Glacial Gotto"] = "finalpuzzle",
     ["Forsaken Shores"] = "forsaken",
-    ["Keepers Secret"] = "Gamma",
+    ["Keepers Secret"] = "gamma", -- fixed
     ["Grand Reef"] = "grandreef",
-    ["Kraken Puzzle"] = "kraken",
+    ["Kraken Puzzle"] = "krakendoor", -- fixed
     ["Frigid Cavern"] = "leverpuzzle",
     ["Sunstone Island"] = "merlin",
     ["Moosewood"] = "moosewood",
-    ["Mushgroove swamp"] = "mushgroov",
+    ["Mushgroove swamp"] = "mushgroove", -- fixed
     ["Oilrig"] = "oilrig",
     ["Poseidon Puzzle"] = "poseidonpuzzle",
     ["Roslit"] = "roslit",
     ["Snowcap Island"] = "snow",
     ["Havesters Spike"] = "spike",
     ["Statue of Sov"] = "statue",
-    ["Sunken Depths"] = "sukencave",
+    ["Sunken Depths"] = "sunkencave", -- fixed
     ["Terrapin Island"] = "terrapin",
     ["The Depths"] = "thedepths",
     ["Trident Puzzle"] = "trident",
